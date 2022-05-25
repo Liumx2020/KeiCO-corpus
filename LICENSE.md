@@ -2,10 +2,6 @@ MIT License
 
 Copyright (c) 2022 Muxuan Liu
 
-MIT License
-
-Copyright (c) 2022 Muxuan Liu
-
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this Corpus and associated documentation files, to deal in the Corpus 
 without restriction, including without limitation the rights to 
