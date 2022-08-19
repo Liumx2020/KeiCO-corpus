@@ -1,6 +1,6 @@
 # KeiCO-corpus
 
-Corpus creator:　お茶の水女子大学小林研究室・Liu Muxuan
+Corpus creator:　お茶の水女子大学小林研究室・[Liu Muxuan](https://liumx2020.github.io)
 
 [For detailed definitions of each annotation, please refer to the paper.](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.3.pdf)
 
